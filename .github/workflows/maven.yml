@@ -26,7 +26,7 @@ jobs:
           java-version: '25'
           distribution: 'temurin'
           # 2. Cấu hình Caching: Tự động lưu thư mục ~/.m2/repository
-          cache: 'maven'
+           #cache: 'maven'
 
       - name: Thực thi Unit Test
         # Lần chạy đầu tiên sẽ tải dependency, lần sau sẽ dùng cache

@@ -1,0 +1,5 @@
+Log không cache (Lần 1): Sẽ có hàng trăm dòng bắt đầu bằng:
+Downloading from central: https://repo.maven.apache.org/maven2/...
+
+Log có cache (Lần 2): Hoàn toàn không có chữ Downloading cho các thư viện cũ. Nó sẽ hiện ngay:
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ Bai4 ---
